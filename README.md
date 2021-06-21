@@ -1,46 +1,118 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/full-logo.svg" width="250px" />
+</h1>
 
-## Available Scripts
+<h4 align="center"> 
+	:heavy_check_mark: 🚀 OmniStack Week 11.0 :heavy_check_mark:
+</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/saulomlcosta/be-The-Hero-Omnistack11?color=%2304D361">
 
-In the project directory, you can run:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/saulomlcosta/be-The-Hero-Omnistack11">
+	
+  <a href="https://www.linkedin.com/in/saulocosta10/">
+    <img alt="Made by Saulo Costa" src="https://img.shields.io/badge/made%20by-saulomlcosta-%2304D361">
+  </a>
 
-### `yarn start`
+  <a href="https://github.com/saulomlcosta/be-The-Hero-Omnistack11">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saulomlcosta/be-The-Hero-Omnistack11">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<a aria-label="Completed" href="https://rocketseat.com.br/week-10/aulas#4">
+    <img src="https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/saulomlcosta/be-The-Hero-Omnistack11/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/saulomlcosta/be-The-Hero-Omnistack11?style=social">
+  </a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</p>
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-### `yarn test`
+## :computer: Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
-### `yarn build`
+<h1 align="center">
+    <img alt="Login-Page" title="Login-Page" src=".github/preview.jpg" width="500px" />
+</h1>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :video_camera: Preview
+![](.github/Desktop.gif)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: Technologies
 
-### `yarn eject`
+This project was developed with the following technologies:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔖 Layout
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To acess the layout, use [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :information_source: How To Use
 
-## Learn More
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+From your command line:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Install API
+```bash
+# Clone this repository
+$ git clone https://github.com/saulomlcosta/be-The-Hero-Omnistack11
+
+# Go into the repository
+$ cd be-The-Hero/backend
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn knex migrate:latest 
+
+# Run Seeds
+$ yarn seed
+
+# Run the API
+$ yarn start
+
+# Run tests
+$ yarn test
+```
+
+## 🤔 How to contribute
+
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+
+---
+
+Made with ♥ by Saulo Costa :wave: [Get in touch!](https://www.linkedin.com/in/saulocosta10/)
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
