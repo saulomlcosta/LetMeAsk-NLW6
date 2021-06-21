@@ -7,23 +7,20 @@
 	:heavy_check_mark: 🚀 Next Level Week Together # 6 :heavy_check_mark:
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/saulomlcosta/be-The-Hero-Omnistack11?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/saulomlcosta/LetMeAsk-NLW6?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/saulomlcosta/be-The-Hero-Omnistack11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/saulomlcosta/LetMeAsk-NLW6">
 	
   <a href="https://www.linkedin.com/in/saulocosta10/">
     <img alt="Made by Saulo Costa" src="https://img.shields.io/badge/made%20by-saulomlcosta-%2304D361">
   </a>
 
-  <a href="https://github.com/saulomlcosta/be-The-Hero-Omnistack11">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saulomlcosta/be-The-Hero-Omnistack11">
+  <a href="https://github.com/saulomlcosta/LetMeAsk-NLW6">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saulomlcosta/LetMeAsk-NLW6">
   </a>
 
-<a aria-label="Completed" href="https://rocketseat.com.br/week-10/aulas#4">
-    <img src="https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
-  </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/saulomlcosta/be-The-Hero-Omnistack11/stargazers">
+   <a href="https://github.com/saulomlcosta/LetMeAsk-NLW6/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/saulomlcosta/be-The-Hero-Omnistack11?style=social">
   </a>
 </p>
