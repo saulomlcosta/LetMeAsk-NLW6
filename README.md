@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/logo-full.svg" width="250px" />
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/logo-full.svg" width="250px" background="white"/>
 </h1>
 
 <h4 align="center"> 
