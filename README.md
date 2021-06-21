@@ -26,7 +26,7 @@
 </p>
 
 <h2 align="center">
-	In Progress
+	In Progress...
 </h2>	
 
 Made with ♥ by Saulo Costa :wave: [Get in touch!](https://www.linkedin.com/in/saulocosta10/)
