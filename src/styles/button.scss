@@ -1,16 +1,12 @@
 .button {
-<<<<<<< HEAD
-=======
-  margin-top: 64px;
->>>>>>> ff4d55c57078ecfb41bc463c36858ac20a311d63
   height: 50px;
   border-radius: 8px;
   font-weight: 500;
-  background: #835AFD;
-  color: #FFF;
+  background: #835afd;
+  color:#fff;
   padding: 0 32px;
 
-  display: flex;
+  display:flex;
   justify-content: center;
   align-items: center;
 
@@ -24,8 +20,8 @@
   }
 
   &:not(:disabled):hover {
-    filter: brightness(0.9);
-  }
+    filter: brightness(0.9)
+  } 
 
   &:disabled {
     opacity: 0.6;
